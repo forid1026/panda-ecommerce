@@ -18,3 +18,41 @@
    border-radius: 8px;
    padding: 9px 25px;
 }
+.carousel-indicators li {
+    width: 18px;
+    height: 18px;
+}
+
+/* categories */
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1{
+    background: orange;
+
+}
+.cat-2{
+    background: orchid;
+}
+.cat-3{
+    background: blue;
+}
+
+/* shoes */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background:#fff;
+    border-top: none;
+}
