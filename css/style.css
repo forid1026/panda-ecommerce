@@ -56,3 +56,10 @@
     background:#fff;
     border-top: none;
 }
+/* subscribe section */
+.subscribe{
+    height: 250px;
+}
+.subscribe h2{
+    text-transform: uppercase;
+}
